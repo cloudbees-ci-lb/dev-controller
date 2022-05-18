@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cloudbees-ci-lb-dev-controller"
+description: "CloudBees CI configuration bundle for the cloudbees-ci-lb dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-ci-lb/dev-controller"
+parent: "base"
